@@ -1,13 +1,13 @@
 ## What up!! 🤙
 I'm Drew (my friends call me drewbob), a software developer based in Omaha, NE, USA.
-I love helping small businesses stand out with left of center design that feels great and makes sense.
+I love helping small businesses stand out with left of center design that makes sense and feels great.
 When I'm not in VSCode or Figma, you'll find me exercising, playing guitar, reading, and spending time with my loved ones.
 
-#### 🔭 I’m currently working on ...
+### 🔭 I’m currently working on ...
 - A booking website for my mom's tidying business
-- A compendium of info about genocide (I studied politics in college)
+- A explorable compendium of info about genocide (I studied politics in college)
 
-###### 🚁 Fun facts:
+### 🚁 Fun facts:
 - I used a flamethrower when I was working on a farm in the Italian Alps
 - "Runner" by Alex G is my current favorite song
 
